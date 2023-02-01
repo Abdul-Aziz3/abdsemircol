@@ -1,10 +1,6 @@
 import random
 
-def getRandomNumber():
-    random_tall = random.randint(1,200)
+def getString(string):
+    return "string"
 
-    return random_tall
-
-print(getRandomNumber())
-print(getRandomNumber())
-
+print(getString)
