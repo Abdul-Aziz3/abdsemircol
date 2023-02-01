@@ -6,3 +6,5 @@ def getRandomNumber():
     return random_tall
 
 print(getRandomNumber())
+print(getRandomNumber())
+
